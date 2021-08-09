@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeTitle">18sp</dimen>
+    <dimen name="textSizeNormal">16sp</dimen>
+    <dimen name="paddingNormal">16dp</dimen>
+    <dimen name="paddingLarge">28dp</dimen>
+    <dimen name="sizeButton">64dp</dimen>
+    <dimen name="padding2x">16dp</dimen>
+    <dimen name="margin2x">16dp</dimen>
+    <dimen name="txt_size_btn">20sp</dimen>
+    <dimen name="margin1x">8dp</dimen>
+    <dimen name="margin3x">24dp</dimen>
+    <dimen name="larg_margin">30dp</dimen>
+    <dimen name="p_large">35dp</dimen>
+    <dimen name="m_large">100dp</dimen>
+</resources>
